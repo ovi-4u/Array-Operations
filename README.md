@@ -1,2 +1,2 @@
-## Array-Operations
-# ***Menu Based Array operation***
+# Array-Operations
+## ***Menu Based Array operation***
